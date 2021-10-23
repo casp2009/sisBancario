@@ -1,0 +1,2 @@
+Imagem do relatório do jacoco:
+image::relatorio.png[]
