@@ -1,3 +1,4 @@
 Imagem do relatório do jacoco:
+abc
 
 image::relatorio.png[]
