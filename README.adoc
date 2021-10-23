@@ -1,3 +1,5 @@
+Shield de verificação: image:https://img.shields.io/github/workflow/status/casp2009/sisBancario/Maven[GitHub Workflow Status (event)]
+
 Imagem do relatório do jacoco:
 abc
 
